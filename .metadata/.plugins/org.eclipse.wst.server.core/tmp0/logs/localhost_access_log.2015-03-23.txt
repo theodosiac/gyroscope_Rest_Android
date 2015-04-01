@@ -1,0 +1,17 @@
+127.0.0.1 - - [23/Mar/2015:21:03:50 +0200] "GET / HTTP/1.1" 404 951
+0:0:0:0:0:0:0:1 - - [23/Mar/2015:21:03:53 +0200] "GET /com.vogella.jersey.first/ HTTP/1.1" 404 1001
+192.168.1.118 - - [23/Mar/2015:21:14:36 +0200] "GET /com.vogella.jersey.first/rest/hello HTTP/1.1" 200 49
+192.168.1.118 - - [23/Mar/2015:21:16:03 +0200] "GET /com.vogella.jersey.first/rest/hello HTTP/1.1" 200 49
+127.0.0.1 - - [23/Mar/2015:21:20:39 +0200] "GET / HTTP/1.1" 404 951
+192.168.1.118 - - [23/Mar/2015:21:20:43 +0200] "GET /com.vogella.jersey.first/rest/hello HTTP/1.1" 200 323341
+192.168.1.118 - - [23/Mar/2015:21:25:30 +0200] "GET /com.vogella.jersey.first/rest/hello HTTP/1.1" 200 16406
+192.168.1.118 - - [23/Mar/2015:21:26:04 +0200] "GET /com.vogella.jersey.first/rest/hello HTTP/1.1" 200 323341
+127.0.0.1 - - [23/Mar/2015:21:44:09 +0200] "GET / HTTP/1.1" 404 951
+0:0:0:0:0:0:0:1 - - [23/Mar/2015:21:44:09 +0200] "GET /com.vogella.jersey.first/ HTTP/1.1" 404 1001
+192.168.1.118 - - [23/Mar/2015:21:44:40 +0200] "GET /com.vogella.jersey.first/rest/hello HTTP/1.1" 200 323341
+127.0.0.1 - - [23/Mar/2015:21:52:12 +0200] "GET / HTTP/1.1" 404 951
+0:0:0:0:0:0:0:1 - - [23/Mar/2015:21:52:12 +0200] "GET /com.vogella.jersey.first/WEB-INF/classes/com/vogella/jersey/first/Hello.java HTTP/1.1" 404 949
+192.168.1.118 - - [23/Mar/2015:21:52:19 +0200] "GET /com.vogella.jersey.first/rest/hello HTTP/1.1" 200 323341
+192.168.1.118 - - [23/Mar/2015:22:26:47 +0200] "GET /com.vogella.jersey.first/rest/hello HTTP/1.1" 200 323341
+192.168.1.118 - - [23/Mar/2015:22:32:27 +0200] "GET /com.vogella.jersey.first/rest/hello HTTP/1.1" 200 323341
+192.168.1.118 - - [23/Mar/2015:22:53:01 +0200] "GET /com.vogella.jersey.first/rest/hello HTTP/1.1" 200 323341

@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Bundle-Vendor: Acme
+Bundle-Version: 1.0.0
+Bundle-Name: HelloWorldBundle
+Bundle-ManifestVersion: 2
+Bundle-Activator: com.acme.helloworld.Activator
+Bundle-Description: Hello World Bundle
+Bundle-SymbolicName: com.acme.helloworld
+Import-Package: org.osgi.framework, android.content, android.hardware, android.os, android.app, android.widget, android.view

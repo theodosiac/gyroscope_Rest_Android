@@ -1,0 +1,12 @@
+127.0.0.1 - - [25/Mar/2015:21:43:31 +0200] "GET / HTTP/1.1" 404 951
+0:0:0:0:0:0:0:1 - - [25/Mar/2015:21:43:33 +0200] "GET /com.vogella.jersey.first/ HTTP/1.1" 404 1001
+127.0.0.1 - - [25/Mar/2015:21:51:32 +0200] "GET / HTTP/1.1" 404 951
+127.0.0.1 - - [25/Mar/2015:21:52:48 +0200] "GET / HTTP/1.1" 404 951
+192.168.1.118 - - [25/Mar/2015:21:53:03 +0200] "GET /com.vogella.jersey.first/rest/hello HTTP/1.1" 200 323341
+192.168.1.118 - - [25/Mar/2015:21:53:14 +0200] "GET /com.vogella.jersey.first/rest/hello HTTP/1.1" 200 323341
+192.168.1.118 - - [25/Mar/2015:21:53:37 +0200] "GET /com.vogella.jersey.first/rest/hello HTTP/1.1" 200 323341
+192.168.1.118 - - [25/Mar/2015:22:01:26 +0200] "GET /com.vogella.jersey.first/rest/hello HTTP/1.1" 200 323341
+192.168.1.118 - - [25/Mar/2015:22:03:16 +0200] "GET /com.vogella.jersey.first/rest/hello HTTP/1.1" 200 323341
+192.168.1.118 - - [25/Mar/2015:22:07:51 +0200] "GET /com.vogella.jersey.first/rest/hello HTTP/1.1" 200 323341
+192.168.1.118 - - [25/Mar/2015:22:11:33 +0200] "GET /com.vogella.jersey.first/rest/hello HTTP/1.1" 200 323341
+192.168.1.118 - - [25/Mar/2015:22:18:12 +0200] "GET /com.vogella.jersey.first/rest/hello HTTP/1.1" 200 323341
